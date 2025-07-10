@@ -58,10 +58,10 @@ mini-store /
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/mini-store.git
+git clone https://github.com/jatinbalajisailada/digital-product-page
 
 # 2. Navigate into the project
-cd mini-store
+cd digital-product-page
 
 # 3. Install dependencies
 npm install
