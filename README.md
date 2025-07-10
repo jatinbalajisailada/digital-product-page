@@ -22,6 +22,12 @@ A simple React-based digital product store that lets users browse, filter, and s
 
 
 
+## 🖼️ Screenshot
+
+![screenshot](6302847898697714100.jpg)
+
+
+
 ## 📂 Project Structure
 
 mini-store /
