@@ -25,6 +25,8 @@ A simple React-based digital product store that lets users browse, filter, and s
 ## 🖼️ Screenshot
 
 ![screenshot](6302847898697714100.jpg)
+![screenshot](6302847898697714101.jpg)
+![screenshot](6302847898697714102.jpg)
 
 
 
